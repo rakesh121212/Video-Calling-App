@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Task Agora</string>
+    <string name="join_call">Join call</string>
+    <string name="leave_call">Leave call</string>
+</resources>
